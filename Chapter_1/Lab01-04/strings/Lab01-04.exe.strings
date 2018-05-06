@@ -1,0 +1,114 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.rsrc
+h,0@
+h@0@
+hL0@
+Qhd0@
+hl0@
+hp0@
+hx0@
+=$1@
+=(1@
+=,1@
+ SVW
+501@
+%\ @
+%l @
+CloseHandle
+OpenProcess
+GetCurrentProcess
+CreateRemoteThread
+GetProcAddress
+LoadLibraryA
+WinExec
+WriteFile
+CreateFileA
+SizeofResource
+LoadResource
+FindResourceA
+GetModuleHandleA
+GetWindowsDirectoryA
+MoveFileA
+GetTempPathA
+KERNEL32.dll
+AdjustTokenPrivileges
+LookupPrivilegeValueA
+OpenProcessToken
+ADVAPI32.dll
+_snprintf
+MSVCRT.dll
+_exit
+_XcptFilter
+exit
+__p___initenv
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+_stricmp
+winlogon.exe
+<not real>
+SeDebugPrivilege
+sfc_os.dll
+\system32\wupdmgr.exe
+%s%s
+#101
+EnumProcessModules
+psapi.dll
+GetModuleBaseNameA
+psapi.dll
+EnumProcesses
+psapi.dll
+\system32\wupdmgr.exe
+%s%s
+\winup.exe
+%s%s
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+h$0@
+Rh<0@
+QhD0@
+%L @
+hX @
+ SVW
+=x0@
+%, @
+%D @
+GetWindowsDirectoryA
+WinExec
+GetTempPathA
+KERNEL32.dll
+URLDownloadToFileA
+urlmon.dll
+_snprintf
+MSVCRT.dll
+_exit
+_XcptFilter
+exit
+__p___initenv
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+\winup.exe
+%s%s
+\system32\wupdmgrd.exe
+%s%s
+http://www.practicalmalwareanalysis.com/updater.exe
